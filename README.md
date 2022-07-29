@@ -10,5 +10,6 @@ What is the average calorie amount for each drink category ?
 ![query2](https://user-images.githubusercontent.com/52126542/181852320-9c34a34e-7467-4208-a6cb-8a15daee994b.png)
 ## The third question
 Which drinks have below average calorie amount ?
-![query3](https://user-images.githubusercontent.com/52126542/181852593-a9d2b9a4-6b1e-48a7-bbbd-1c78a2949d54.png)
+![query3](https://user-images.githubusercontent.com/52126542/181852762-0b2d1d02-f2c8-43d5-aa91-033e614fe15c.png)
+
  ### And for more deatail , you can see DB_task.doc 
