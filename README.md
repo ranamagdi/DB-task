@@ -1,5 +1,5 @@
 # DB-task
-This the DB task to answer 3 questions by writing queries
+This the DB task to answer 3 questions depand on drinkMenu.csv and by writing queries.
 ## The first question
 Which drink has the highest calories from the dataset ?
 ### The query answer 
