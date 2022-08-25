@@ -13,4 +13,4 @@ Which drinks have below average calorie amount ?
 ### The query answer 
 ![query3](https://user-images.githubusercontent.com/52126542/181852762-0b2d1d02-f2c8-43d5-aa91-033e614fe15c.png)
 
- ### And for more deatail , you can see DB_task.pdf
+ ### And for more details , you can see DB_task.pdf
